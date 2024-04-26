@@ -18,6 +18,6 @@ Epilepsy, a prevalent neurological disorder, impacts millions globally. Despite 
 
 The installation instruction is included in the [README_SOFTWARE.md](Documentation/README_SOFTWARE.md).
 
-The Project overview is included in the [Engineering_README.md](Documentation/Engineering_README.md).
+The technical overview is included in the [Engineering_README.md](Documentation/Engineering_README.md).
 
 More information of the project can be found in the [Documentation](Documentation) folder.
